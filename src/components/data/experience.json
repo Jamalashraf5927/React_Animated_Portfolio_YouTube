@@ -10,7 +10,7 @@
       "Worked on Google Gmail",
       "Worked with the Google Bard Team"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "compney/google.png"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Worked on Windows 10 terminal",
       "Worked on Window 11 Upcoming features"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "compney/microsoft.png"
   },
   {
     "id": 3,
@@ -36,6 +36,6 @@
       "Worked on Nextflix payment system",
       "Helped to create UI for video player"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "compne/microsoft.png"
   }
 ]
