@@ -17,6 +17,7 @@ const Experience = () => {
               >
                 <div className="left">
                   <img src={`/assets/${data.imageSrc}`} alt="" />
+                  {/* <img src={'/assets/${data.imageSrc}'} alt="" /> */}
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>

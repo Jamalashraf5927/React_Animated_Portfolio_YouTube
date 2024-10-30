@@ -1,12 +1,12 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "title": "E-Commerce store",  
+    "imageSrc": "https://vercel.com/api/toolbar/link/full-stack-e-commerce-store-jamalashraf.vercel.app?via=project-screenshot&p=1&page=/",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
+    "view": "https://full-stack-e-commerce-store-jamalashraf.vercel.app/",
+    "source": "https://github.com/Jamalashraf5927/Full-Stack-E-commerce-Store"  
+  },  
   {
     "key": 2,
     "title": "MERN Blogging",

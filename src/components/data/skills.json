@@ -1,38 +1,26 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "project/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "project/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "project/skills/javascript.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "project/skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "project/skills/node.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title":"Next",
+    "imageSrc":"project/skills/next.jpg"
   }
 ]
