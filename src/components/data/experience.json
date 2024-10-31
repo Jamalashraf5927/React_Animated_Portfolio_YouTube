@@ -3,39 +3,27 @@
     "id": 1,
     "role": "React Frontend Developer ",
     "organisation": "Adventech",
-    "startDate": "Sept, 2023",
-    "endDate": "2023",
+    "startDate": "jan, 2020",
+    "endDate": "2021",
     "location": "Lahore,Punjab,Pakistan",
     "experiences": [
       "Worked on React",
       "Worked a Frontend developer"
     ],
-    "imageSrc": "compney/google.png"
+    "imageSrc": "compney/"
   },
   {
     "id": 2,
-    "role": "Frontend",
-    "organisation": "Mirosoft",
+    "role": "Next Frontend developer",
+    "organisation": "Muaj",
     "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "endDate": "Aug, 2024",
+    "location": "Lahore, PK",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "React.js & Next.js ",
+      "Worked on Ecommerce  and Qiuz Composer website"
     ],
-    "imageSrc": "compney/microsoft.png"
-  },
-  {
-    "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
-    "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "compne/microsoft.png"
+
+    "imageSrc": "compne/microsoft.png "
   }
 ]

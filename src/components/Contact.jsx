@@ -17,11 +17,11 @@ const Contact = () => {
           data-aos-duration="1000"
         >
 
-          <a href="https://www.linkedin.com/in/muhammad-jamal-muhammad-ashraf-672250230/" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/muhammad-jamal-muhammad-ashraf-672250230/" className="items">
             <CiLinkedin className="icons" />
           </a>
         
-          <a href="https://github.com/Jamalashraf5927" target="_blank" className="items">
+          <a href="https://github.com/Jamalashraf5927" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
